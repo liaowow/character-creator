@@ -16,7 +16,7 @@ const Footer = () => {
       </a>
       , by Pablo Stanley
     </footer>
-    <div className={styles.box}></div>
+    {/* <div className={styles.box}></div> */}
     </>
   );
 };

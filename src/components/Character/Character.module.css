@@ -1,8 +1,4 @@
 .character {
   /* Fill the available container height */
-  height: 80%;
-  min-height: 500px;
-  position: fixed;
-  top: 128px;
-  right: 128px;
+  height: 100%;
 }
